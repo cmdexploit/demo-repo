@@ -1,5 +1,5 @@
-#heading 
+#Heading 
 
-##sub heading
+##Sub heading
 
  exploring github
